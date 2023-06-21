@@ -1,0 +1,656 @@
+.homepageFinalChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-linen);
+  width: 1881px;
+  height: 7772px;
+}
+.homepageFinalItem {
+  position: absolute;
+  top: -25.25px;
+  left: -117.73px;
+  background: linear-gradient(
+    245.09deg,
+    rgba(2, 49, 16, 0.83),
+    rgba(2, 2, 2, 0.83)
+  );
+  width: 2159.79px;
+  height: 1094.25px;
+}
+.playground1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3431.52px;
+  height: 1348px;
+  object-fit: cover;
+  mix-blend-mode: overlay;
+}
+.revolutionzingSports {
+  position: absolute;
+  top: 405px;
+  left: calc(50% - 763.5px);
+  font-size: 185.77px;
+  letter-spacing: 0.04em;
+  line-height: 134.61px;
+  display: inline-block;
+  font-family: var(--font-bison);
+  width: 1551px;
+  height: 152.98px;
+  -webkit-text-stroke: 1.3px #fff;
+}
+.deliveringNextLevelSports {
+  position: absolute;
+  top: 589px;
+  left: calc(50% - 466.5px);
+  font-size: 39.63px;
+  letter-spacing: 0.16em;
+  line-height: 63.53px;
+  text-align: right;
+  display: inline-block;
+  width: 932px;
+  height: 61px;
+}
+.homepageFinalInner {
+  position: absolute;
+  top: 936px;
+  left: 924px;
+  width: 57px;
+  height: 97.33px;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.groupIcon,
+.maskGroupIcon,
+.maskGroupIcon1,
+.vectorIcon {
+  position: absolute;
+  top: 1068.48px;
+  left: 293.96px;
+  width: 1593px;
+  height: 1114.04px;
+}
+.groupIcon,
+.maskGroupIcon,
+.maskGroupIcon1 {
+  top: 1071px;
+  height: 1113.22px;
+  object-fit: cover;
+}
+.groupIcon,
+.maskGroupIcon1 {
+  left: 317.96px;
+  opacity: 0.03;
+}
+.groupIcon {
+  top: 2110px;
+  left: 933px;
+  width: 34px;
+  height: 58.05px;
+  opacity: 0.5;
+}
+.footballTurf {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.09em;
+  display: inline-block;
+  font-family: var(--font-bison);
+  width: 577.63px;
+  height: 121.61px;
+  -webkit-text-stroke: 1px #023110;
+}
+.theFirstGenerationArtificia {
+  position: absolute;
+  top: 135.42px;
+  left: 22.22px;
+  font-size: 17.98px;
+  letter-spacing: 0.05em;
+  line-height: 25.39px;
+  color: #0d5e48;
+  text-align: left;
+  display: inline-block;
+  width: 507.36px;
+  height: 144.7px;
+}
+.groupChild {
+  position: absolute;
+  top: 305.74px;
+  left: 22.22px;
+  border-radius: 17.13px;
+  background-color: var(--color-darkslategray-100);
+  box-shadow: 0 4.231738090515137px 4.23px rgba(0, 0, 0, 0.25);
+  width: 179.85px;
+  height: 34.26px;
+}
+.createYourOwn {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  line-height: 14.54px;
+  display: inline-block;
+  width: 96.62px;
+  height: 11.97px;
+  -webkit-text-stroke: 0.2px #e6eadc;
+}
+.groupItem {
+  position: absolute;
+  top: 3.08px;
+  left: 111.56px;
+  width: 13.95px;
+  height: 9.78px;
+}
+.createYourOwnParent {
+  position: absolute;
+  top: 316.32px;
+  left: 45.49px;
+  width: 124.84px;
+  height: 11.97px;
+  text-align: right;
+  font-size: 12.35px;
+  color: var(--color-linen);
+}
+.groupInner {
+  position: absolute;
+  top: 26.45px;
+  left: 9.52px;
+  background-color: var(--color-darkslategray-100);
+  width: 3.17px;
+  height: 128.01px;
+}
+.footballTurfParent {
+  position: absolute;
+  top: 1185px;
+  left: 202px;
+  width: 577.63px;
+  height: 340px;
+  text-align: center;
+  font-size: 92.04px;
+  color: #032d0f;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 2499px;
+  left: 1470px;
+  background: linear-gradient(261.87deg, #023110, #020202);
+  width: 418px;
+  height: 876px;
+}
+.homepageFinalChild1,
+.homepageFinalChild2 {
+  position: absolute;
+  top: 2184px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 638px;
+  height: 443px;
+}
+.homepageFinalChild2 {
+  left: 638px;
+  background-color: var(--color-gainsboro-100);
+  width: 1242px;
+}
+.homepageFinalChild3 {
+  position: absolute;
+  top: 2627px;
+  left: 1566.5px;
+  width: 1px;
+  height: 774px;
+}
+.about,
+.athlexJourney {
+  position: absolute;
+  top: 2323px;
+  letter-spacing: 0.06em;
+  line-height: 72px;
+  display: inline-block;
+  font-family: var(--font-bison);
+}
+.athlexJourney {
+  left: 136px;
+  font-size: 67px;
+  color: var(--color-darkslategray-100);
+  width: 411px;
+}
+.about {
+  left: 713px;
+  font-size: var(--font-size-38xl);
+  color: rgba(2, 49, 16, 0.5);
+  width: 335px;
+}
+.knowWhatAre,
+.material,
+.process,
+.quality,
+.turfDescription {
+  position: absolute;
+  left: 1608px;
+  letter-spacing: 0.12em;
+  line-height: 75px;
+}
+.knowWhatAre {
+  top: 2994px;
+  color: var(--color-yellowgreen);
+}
+.material,
+.process,
+.quality,
+.turfDescription {
+  top: 2930px;
+}
+.material,
+.process,
+.quality {
+  top: 3060px;
+  left: 1606px;
+}
+.material,
+.process {
+  top: 3124px;
+}
+.process {
+  top: 3190px;
+}
+.maskGroupIcon2,
+.maskGroupIcon3 {
+  position: absolute;
+  top: 2671px;
+  left: 1606px;
+  width: 24.59px;
+  height: 22px;
+  object-fit: cover;
+}
+.maskGroupIcon3 {
+  top: 2582px;
+  left: 748px;
+}
+.homepageFinalChild4 {
+  position: absolute;
+  top: 3030px;
+  left: 1472px;
+  background-color: var(--color-yellowgreen);
+  width: 33px;
+  height: 3px;
+}
+.homepageFinalChild5,
+.rectangleIcon {
+  position: absolute;
+  top: 2627px;
+  left: 0;
+  width: 1472px;
+  height: 748px;
+}
+.rectangleIcon {
+  object-fit: cover;
+}
+.homepageFinalChild5 {
+  background: linear-gradient(
+    261.87deg,
+    rgba(2, 49, 16, 0.84),
+    rgba(2, 2, 2, 0.84)
+  );
+}
+.knowWhatYou {
+  margin: 0;
+}
+.knowWhatYouContainer {
+  position: absolute;
+  top: 2866px;
+  left: 136px;
+  font-size: var(--font-size-38xl);
+  letter-spacing: 0.05em;
+  line-height: 68.39px;
+  color: var(--color-linen);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 684.6px;
+  height: 175.83px;
+  -webkit-text-stroke: 0.7px #fff;
+}
+.youPlayWe {
+  top: 2407px;
+  left: 136px;
+  font-size: 23.8px;
+  letter-spacing: 0.08em;
+  line-height: 49.33px;
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+  width: 220px;
+  height: 40.39px;
+  -webkit-text-stroke: 0.5px #fff;
+}
+.b,
+.wrapper,
+.youPlayWe {
+  position: absolute;
+}
+.b {
+  top: 0;
+  left: 0;
+  letter-spacing: 0.12em;
+  line-height: 70.62px;
+}
+.wrapper {
+  top: 2782px;
+  left: 136px;
+  width: 43px;
+  height: 71px;
+  font-size: 53.33px;
+  color: var(--color-yellowgreen);
+  font-family: var(--font-bison);
+}
+.arrowIcon {
+  position: absolute;
+  top: 2961.67px;
+  left: 463.17px;
+  width: 50.36px;
+  height: 30.62px;
+}
+.knowAboutYourContainer {
+  position: absolute;
+  top: 2717px;
+  left: 1606px;
+  font-size: 32.68px;
+  letter-spacing: 0.11em;
+  line-height: 49px;
+}
+.groupChild1,
+.homepageFinalChild6 {
+  position: absolute;
+  top: 2762px;
+  left: 79.65px;
+  width: 4.7px;
+  height: 612px;
+}
+.groupChild1 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-linen);
+  width: 1959px;
+  height: 483px;
+}
+.groupChild2,
+.weMakeSports {
+  position: absolute;
+  left: 520px;
+}
+.weMakeSports {
+  top: 164px;
+  font-size: 37.34px;
+  letter-spacing: 0.13em;
+  line-height: 66.32px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 467px;
+  height: 142px;
+}
+.groupChild2 {
+  top: 245.41px;
+  background-color: var(--color-darkslategray-100);
+  width: 1317px;
+  height: 3.18px;
+}
+.connectWithUs,
+.enterYourEMail,
+.send {
+  position: absolute;
+  letter-spacing: 0.09em;
+  line-height: 18.26px;
+  display: inline-block;
+}
+.connectWithUs {
+  top: 103px;
+  left: 1148px;
+  font-size: 35.93px;
+  width: 347px;
+  -webkit-text-stroke: 1px #032d0f;
+}
+.enterYourEMail,
+.send {
+  top: 173px;
+}
+.enterYourEMail {
+  left: 1174px;
+  color: rgba(2, 49, 16, 0.7);
+  width: 285px;
+}
+.send {
+  left: 1729px;
+  width: 53px;
+  -webkit-text-stroke: 0.5px #023110;
+}
+.groupChild3 {
+  position: absolute;
+  top: 156px;
+  left: 1148px;
+  border-radius: var(--br-9xs);
+  border: 2px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 516px;
+  height: 54px;
+}
+.span {
+  font-size: 22.96px;
+}
+.homeConfiguratorContactContainer {
+  position: absolute;
+  top: 265px;
+  left: 1553px;
+  letter-spacing: 0.11em;
+  -webkit-text-stroke: 0.3px #023110;
+  font-size: 15.86px;
+}
+.copyright2022rossinaviVatNum,
+.creditsPolicyCookies {
+  position: absolute;
+  font-size: 12.84px;
+  letter-spacing: 0.11em;
+}
+.creditsPolicyCookies {
+  top: 417px;
+  left: 855.32px;
+  -webkit-text-stroke: 0.2px #023110;
+}
+.copyright2022rossinaviVatNum {
+  top: 439.66px;
+  left: 793px;
+}
+.groupChild4 {
+  position: absolute;
+  top: 439px;
+  left: 1756px;
+  width: 76px;
+  height: 15.67px;
+  object-fit: cover;
+}
+.groupChild5 {
+  position: absolute;
+  top: 156px;
+  left: 1675px;
+  border-radius: var(--br-9xs);
+  border: 2px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 161px;
+  height: 54px;
+}
+.maskGroupIcon4 {
+  position: absolute;
+  top: 127px;
+  left: 176px;
+  width: 222px;
+  height: 118.13px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 3382px;
+  left: -23px;
+  width: 1959px;
+  height: 483px;
+  font-size: 19.93px;
+  color: var(--color-darkslategray-100);
+}
+.theFirstGenerationArtificia1,
+.theFirstGenerationArtificia2 {
+  position: absolute;
+  top: 3042px;
+  left: 136px;
+  font-size: var(--font-size-mid);
+  letter-spacing: 0.05em;
+  line-height: 23.97px;
+  display: inline-block;
+  width: 897px;
+  height: 212px;
+}
+.theFirstGenerationArtificia2 {
+  top: 2334px;
+  left: 909px;
+  color: var(--color-darkslategray-100);
+  height: 165px;
+}
+.maskGroupIcon5 {
+  position: absolute;
+  top: 96px;
+  left: 92px;
+  width: 185px;
+  height: 98.44px;
+  object-fit: cover;
+}
+.groupChild6 {
+  position: absolute;
+  top: 7.48px;
+  left: 0;
+  border-radius: 1.64px;
+  background-color: rgba(255, 255, 255, 0.3);
+  width: 99.38px;
+  height: 29.92px;
+}
+.english {
+  position: absolute;
+  top: 0;
+  left: 14.37px;
+  letter-spacing: 0.08em;
+  line-height: 44.5px;
+  -webkit-text-stroke: 0.2px #fff;
+}
+.polygonIcon,
+.rectangleGroup {
+  position: absolute;
+  top: 22.44px;
+  left: 79.73px;
+  width: 8.2px;
+  height: 5.74px;
+}
+.rectangleGroup {
+  top: 100px;
+  left: 1628px;
+  width: 99.38px;
+  height: 45px;
+  font-size: 13.78px;
+}
+.groupChild7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 42.38px;
+  height: 3.74px;
+}
+.groupChild10,
+.groupChild11,
+.groupChild8,
+.groupChild9 {
+  position: absolute;
+  top: 0;
+  left: 59.2px;
+  background-color: var(--color-gainsboro-200);
+  width: 42.38px;
+  height: 3.74px;
+}
+.groupChild10,
+.groupChild11,
+.groupChild9 {
+  left: 118.41px;
+}
+.groupChild10,
+.groupChild11 {
+  left: 172px;
+}
+.groupChild11 {
+  left: 231.21px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 2036px;
+  left: 803px;
+  width: 273.58px;
+  height: 3.74px;
+}
+.cam2Icon,
+.homepageFinalChild7 {
+  position: absolute;
+  object-fit: cover;
+}
+.cam2Icon {
+  top: 1549px;
+  left: 1310px;
+  width: 507px;
+  height: 285px;
+  opacity: 0.3;
+}
+.homepageFinalChild7 {
+  top: 1966px;
+  left: 1115px;
+  width: 44.1px;
+  height: 44.1px;
+}
+.homepageFinalChild8 {
+  top: 1966px;
+  left: 674px;
+  width: 44.1px;
+  height: 44.1px;
+}
+.cam2Icon1,
+.hockey1Icon,
+.homepageFinalChild8 {
+  position: absolute;
+  object-fit: cover;
+}
+.cam2Icon1 {
+  top: 1642px;
+  left: 79px;
+  width: 507px;
+  height: 285px;
+  opacity: 0.3;
+}
+.hockey1Icon {
+  top: 1351px;
+  left: 415px;
+  width: 1148px;
+  height: 646px;
+}
+.selectToGet {
+  position: absolute;
+  top: 2058px;
+  left: calc(50% - 100.5px);
+  font-size: var(--font-size-mid);
+  letter-spacing: 0.16em;
+  line-height: 24px;
+  text-align: right;
+  display: inline-block;
+  width: 200px;
+  height: 23px;
+}
+.homepageFinal {
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.4);
+  width: 100%;
+  height: 3867px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 15.96px;
+  color: var(--color-white);
+  font-family: var(--font-gidole);
+}

@@ -1,0 +1,113 @@
+/* footer */
+.footerDiv img {
+  height: 76px;
+}
+.footerDiv {
+  background: #e6eadc;
+  padding: 70px 0;
+  padding-bottom: 0;
+}
+.WMS h1 {
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #023110;
+  font-family: var(--font-gidole);
+  font-size: 2.1rem;
+  margin-top: 14px;
+}
+.mailSend div {
+  position: relative;
+}
+.mailSend div span {
+  position: absolute;
+  top: -26px;
+  left: 68px;
+  line-height: 18px;
+  letter-spacing: 0.09em;
+  color: #023110;
+  font-family: var(--font-gidole);
+  font-size: 24px;
+  font-weight: 600;
+}
+.mailSend div {
+  display: flex;
+}
+.mailSend input {
+  max-width: 400px;
+  margin-left: auto;
+  border: 2px solid #023110 !important;
+  border-radius: 4px;
+  background: transparent !important;
+  color: rgba(2, 49, 16, 0.7);
+  font-family: var(--font-gidole);
+  font-size: 17px;
+  height: 50px;
+}
+.mailSend input:focus {
+  box-shadow: none;
+}
+.mailSend button {
+  border: 2px solid #023110 !important;
+  border-radius: 4px;
+  margin-left: 10px;
+  width: 154px;
+  height: 50px;
+  font-family: var(--font-gidole);
+  -webkit-text-stroke: 1px #032d0f;
+}
+.botm_menu ul {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+}
+.botm_menu ul li {
+  line-height: 18px;
+  letter-spacing: 0.11em;
+  color: #023110;
+  font-family: var(--font-gidole);
+  margin-left: 32px;
+  -webkit-text-stroke: 0.3px #023110;
+  margin-top: 12px;
+}
+.bottomMostUl {
+  padding: 0;
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  margin-top: 64px !important;
+}
+.bottomMostUl li {
+  font-family: var(--font-gidole);
+  margin: 0 8px;
+  -webkit-text-stroke: 0.2px #023110;
+}
+.copywrightTxt {
+  text-align: center;
+  letter-spacing: 0.11em;
+  color: #023110;
+  font-family: var(--font-gidole);
+  font-size: 14px;
+  position: relative;
+  margin-bottom: 1rem;
+}
+.copywrightTxt div {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.socialmedia_ul {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  margin: 0;
+}
+.socialmedia_ul li {
+  margin: 0 4px;
+  cursor: pointer;
+}
+.socialmedia_ul li img {
+  height: 20px;
+}
+/* footer */
